@@ -1,0 +1,23 @@
+{
+  "name": "ssf2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://AlvinWong21@github.com/AlvinWong21/ssf2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlvinWong21/ssf2/issues"
+  },
+  "homepage": "https://github.com/AlvinWong21/ssf2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0"
+  }
+}
